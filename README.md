@@ -1,10 +1,8 @@
-# Dhaka Urban Environmental Analysis (2022) — Google Earth Engine
+# Urban Environmental Analysis (2022) — Google Earth Engine
 
 Google Earth Engine (GEE) scripts and derived output maps for analyzing land
 surface temperature, vegetation, urban heat, nighttime lights, and soil loss
 over the Dhaka / Bangladesh region using 2021–2022 satellite data.
-
-## Contents
 
 ### `scripts/`
 Google Earth Engine JavaScript scripts (run in the [GEE Code Editor](https://code.earthengine.google.com/)).
